@@ -19,7 +19,7 @@ import { Employee } from "./employee";
 
     </table>
 
-    <p>helloo>
+    <p>helloo</p>
   `,
   styles: [
   ]
