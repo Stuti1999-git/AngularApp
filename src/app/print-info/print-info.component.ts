@@ -10,7 +10,6 @@ import { Employee } from "./employee";
     <th>Employee Age</th>
     <th>Employee Designation </th>
     </tr>
-
     <tr *ngFor= 'let e of emp' >
     <td>{{e.userid}} </td>
     <td>{{e.username}} </td>
@@ -19,6 +18,8 @@ import { Employee } from "./employee";
     </tr>
 
     </table>
+
+    <p>helloo>
   `,
   styles: [
   ]
